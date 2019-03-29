@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DProgressButton">
+        <attr name="color" format="color"></attr>
+        <attr name="drawable_xml" format="reference"></attr>
+        <attr name="stroke_width" format="dimension"></attr>
+        <attr name="radius" format="dimension"></attr>
+    </declare-styleable>
+
+
+</resources>
